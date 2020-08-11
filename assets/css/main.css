@@ -3005,7 +3005,7 @@ input, select, textarea {
 				}
 
 			.gallery a.portrait img {
-				height: 30vw;
+				height: 100%;
 			}
 
 		.gallery .modal {
